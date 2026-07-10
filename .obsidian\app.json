@@ -1,0 +1,14 @@
+{
+  "baseTheme": "adapt",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "",
+  "attachmentFolderPath": "附件",
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": true,
+  "trashOption": "local",
+  "promptDelete": false,
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "showFrontmatter": true
+}
